@@ -1,5 +1,7 @@
 # predict_cost_by_solardata
-# 美國各州區域電費預測
+# 美國各州鄉鎮區域電費消費預測
+
+
 
 
 #### 1. 資料來源 Kaggle <br>
