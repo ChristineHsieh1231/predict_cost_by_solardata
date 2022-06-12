@@ -6,7 +6,7 @@
 #### 1. 資料來源 Kaggle <br>
 
 [google太陽能屋頂計畫 google-project-sunroof](https://www.kaggle.com/jboysen/google-project-sunroof) 
-<br>[google太陽能屋頂計畫](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/DeepSolar欄位敘述說明.xlsx)
+<br>[google太陽能屋頂計畫欄位敘述說明](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/DeepSolar欄位敘述說明.xlsx)
 <br>[史丹佛太陽能研究 Stanford University deep-solar](https://www.kaggle.com/tunguz/deep-solar-dataset)
 <br>[史丹佛太陽能研究欄位敘述說明](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/DeepSolar欄位敘述說明.xlsx)
 
