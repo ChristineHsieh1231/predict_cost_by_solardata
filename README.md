@@ -1,6 +1,6 @@
 # predict_cost_by_solardata
 # 美國各州鄉鎮區域電費消費預測
-
+<br>透過兩筆美國太陽能的資料，來預測電費總消費額是多少。
 
 
 
@@ -15,6 +15,7 @@
 
 #### 3. 資料觀察&資料視覺化
 [Data observation](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/%232%20Data%20observation.ipynb)
+
 ![image](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/cost.png)
 ![image](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/KW.png)
 ![太陽能電池板總面積](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/total_panel_area.png)
@@ -28,6 +29,5 @@
 <br>[linear regression](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/model_linear.ipynb)
 
 
-#### 5.特徵篩選
-features selection
+#### 5.特徵篩選 features selection
 [XGBOOST select with five features](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/%23filter%20XGBOOST.ipynb)
