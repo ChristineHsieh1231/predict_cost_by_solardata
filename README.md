@@ -3,11 +3,12 @@
 <br>透過兩筆美國太陽能的資料，來預測電費總消費額是多少。
 
 
-
 #### 1. 資料來源 Kaggle <br>
 
-[太陽能屋頂計畫 google-project-sunroof](https://www.kaggle.com/jboysen/google-project-sunroof) <br>
-[史丹佛太陽能研究 Stanford University deep-solar](https://www.kaggle.com/tunguz/deep-solar-dataset)
+[google太陽能屋頂計畫 google-project-sunroof](https://www.kaggle.com/jboysen/google-project-sunroof) 
+<br>[google太陽能屋頂計畫](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/DeepSolar欄位敘述說明.xlsx)
+<br>[史丹佛太陽能研究 Stanford University deep-solar](https://www.kaggle.com/tunguz/deep-solar-dataset)
+<br>[史丹佛太陽能研究欄位敘述說明](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/DeepSolar欄位敘述說明.xlsx)
 
 
 #### 2. 資料清理
