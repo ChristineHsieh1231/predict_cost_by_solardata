@@ -13,7 +13,7 @@
 
 #### 3. 資料觀察&資料視覺化
 [Data observation](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/%232%20Data%20observation.ipynb)
-![image](https://raw.githubusercontent.com/ChristineHsieh1231/predict_cost_by_solardata/main/cost.png?token=GHSAT0AAAAAABVIN7GWHTISVAWDOFBEBYF2YVGCL2A)
+![image](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/cost.png)
 
 #### 4. 特徵工程
 [特徵工程：主成分分析](https://github.com/ChristineHsieh1231/predict_cost_by_solardata/blob/main/%233%20主成分分析sunroof.ipynb)
